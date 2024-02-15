@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova", "Prova.csproj", "{09B54BC8-7BDC-4048-B3CD-00E131AB9055}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Robot", "1. Robot", "{B1B3D0D1-5AF0-4B3F-A187-2D0B60EC6B75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Domain", "2. Domain", "{2D71A3F3-0D2D-4A2E-9D04-DA422CA656FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Application", "3. Application", "{B6F5984C-C42B-42CD-A1F3-465F3CE54D7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Infrastructure", "4. Infrastructure", "{70E8EF1B-0B71-475F-AB7B-5F5FF5773DEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova.Domain", "..\Prova.Domain\Prova.Domain.csproj", "{D40F79C5-51F3-4BD2-AFA4-7A414AA01D8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova.Application", "..\Prova.Application\Prova.Application.csproj", "{19E5D83E-9B5C-4AF7-B534-685ACED28239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova.Infra.Data", "..\Prova.Infra.Data\Prova.Infra.Data.csproj", "{F4729FA7-7EB6-4F35-8CE1-B2E1605E0ABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09B54BC8-7BDC-4048-B3CD-00E131AB9055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B54BC8-7BDC-4048-B3CD-00E131AB9055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B54BC8-7BDC-4048-B3CD-00E131AB9055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B54BC8-7BDC-4048-B3CD-00E131AB9055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40F79C5-51F3-4BD2-AFA4-7A414AA01D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40F79C5-51F3-4BD2-AFA4-7A414AA01D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40F79C5-51F3-4BD2-AFA4-7A414AA01D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40F79C5-51F3-4BD2-AFA4-7A414AA01D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E5D83E-9B5C-4AF7-B534-685ACED28239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E5D83E-9B5C-4AF7-B534-685ACED28239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E5D83E-9B5C-4AF7-B534-685ACED28239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E5D83E-9B5C-4AF7-B534-685ACED28239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4729FA7-7EB6-4F35-8CE1-B2E1605E0ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4729FA7-7EB6-4F35-8CE1-B2E1605E0ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4729FA7-7EB6-4F35-8CE1-B2E1605E0ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4729FA7-7EB6-4F35-8CE1-B2E1605E0ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{09B54BC8-7BDC-4048-B3CD-00E131AB9055} = {B1B3D0D1-5AF0-4B3F-A187-2D0B60EC6B75}
+		{D40F79C5-51F3-4BD2-AFA4-7A414AA01D8E} = {2D71A3F3-0D2D-4A2E-9D04-DA422CA656FA}
+		{19E5D83E-9B5C-4AF7-B534-685ACED28239} = {B6F5984C-C42B-42CD-A1F3-465F3CE54D7E}
+		{F4729FA7-7EB6-4F35-8CE1-B2E1605E0ABD} = {70E8EF1B-0B71-475F-AB7B-5F5FF5773DEB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E286148-5F2F-4086-A6F5-FE504ED1C188}
+	EndGlobalSection
+EndGlobal

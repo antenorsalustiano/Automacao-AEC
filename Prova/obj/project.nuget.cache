@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "57aeKOESwFfPkb09216c8zpY4mTyu0zHD4YKJ4Vz5OxrGdssm6GWpdoNe0AEEyck0l7DqwWZdiEYvU+tfKrgdg==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\AECNovo\\Prova\\Prova.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Olá\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Olá\\.nuget\\packages\\selenium.support\\4.17.0\\selenium.support.4.17.0.nupkg.sha512",
+    "C:\\Users\\Olá\\.nuget\\packages\\selenium.webdriver\\4.17.0\\selenium.webdriver.4.17.0.nupkg.sha512",
+    "C:\\Users\\Olá\\.nuget\\packages\\selenium.webdriver.chromedriver\\121.0.6167.8500\\selenium.webdriver.chromedriver.121.0.6167.8500.nupkg.sha512"
+  ],
+  "logs": []
+}

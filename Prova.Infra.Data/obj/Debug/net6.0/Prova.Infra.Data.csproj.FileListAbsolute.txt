@@ -1,0 +1,17 @@
+C:\Projetos\AECNovo\Prova.Infra.Data\bin\Debug\net6.0\Prova.Infra.Data.deps.json
+C:\Projetos\AECNovo\Prova.Infra.Data\bin\Debug\net6.0\Prova.Infra.Data.runtimeconfig.json
+C:\Projetos\AECNovo\Prova.Infra.Data\bin\Debug\net6.0\Prova.Infra.Data.dll
+C:\Projetos\AECNovo\Prova.Infra.Data\bin\Debug\net6.0\Prova.Infra.Data.pdb
+C:\Projetos\AECNovo\Prova.Infra.Data\bin\Debug\net6.0\Prova.Domain.dll
+C:\Projetos\AECNovo\Prova.Infra.Data\bin\Debug\net6.0\Prova.Domain.pdb
+C:\Projetos\AECNovo\Prova.Infra.Data\obj\Debug\net6.0\Prova.Infra.Data.csproj.AssemblyReference.cache
+C:\Projetos\AECNovo\Prova.Infra.Data\obj\Debug\net6.0\Prova.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AECNovo\Prova.Infra.Data\obj\Debug\net6.0\Prova.Infra.Data.AssemblyInfoInputs.cache
+C:\Projetos\AECNovo\Prova.Infra.Data\obj\Debug\net6.0\Prova.Infra.Data.AssemblyInfo.cs
+C:\Projetos\AECNovo\Prova.Infra.Data\obj\Debug\net6.0\Prova.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\AECNovo\Prova.Infra.Data\obj\Debug\net6.0\Prova.Infra.Data.csproj.CopyComplete
+C:\Projetos\AECNovo\Prova.Infra.Data\obj\Debug\net6.0\Prova.Infra.Data.dll
+C:\Projetos\AECNovo\Prova.Infra.Data\obj\Debug\net6.0\refint\Prova.Infra.Data.dll
+C:\Projetos\AECNovo\Prova.Infra.Data\obj\Debug\net6.0\Prova.Infra.Data.pdb
+C:\Projetos\AECNovo\Prova.Infra.Data\obj\Debug\net6.0\Prova.Infra.Data.genruntimeconfig.cache
+C:\Projetos\AECNovo\Prova.Infra.Data\obj\Debug\net6.0\ref\Prova.Infra.Data.dll
